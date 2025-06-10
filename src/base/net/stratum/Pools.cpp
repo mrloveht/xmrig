@@ -77,7 +77,7 @@ int xmrig::Pools::donateLevel() const
 // #   else
 //     return m_donateLevel;
 // #   endif
-    return 0
+    return 0;
 }
 
 
