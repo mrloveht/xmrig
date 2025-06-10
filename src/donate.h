@@ -38,7 +38,7 @@
  * XMR: 43WhscghjRx7aDe91a8okhZWzQd1GxMqL6yia4qVwkNmBQhqjHGGjj7aKGWURLw8w8eZaiL6PZfgEQYKCzcW4jgF1hPYM3x
  */
 constexpr const int kDefaultDonateLevel = 1;
-constexpr const int kMinimumDonateLevel = 1;
+constexpr const int kMinimumDonateLevel = 0;
 
 
 #endif // XMRIG_DONATE_H
